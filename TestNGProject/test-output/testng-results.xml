@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-24T11:32:05Z" name="Default suite" finished-at="2021-01-24T11:32:05Z" duration-ms="72">
+    <groups>
+    </groups>
+    <test started-at="2021-01-24T11:32:05Z" name="Default test" finished-at="2021-01-24T11:32:05Z" duration-ms="72">
+      <class name="com.abc.main.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="beforeClass" finished-at="2021-01-24T11:32:05Z" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="beforeMethod" finished-at="2021-01-24T11:32:05Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f1()[pri:1, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="f1" finished-at="2021-01-24T11:32:05Z" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="afterMethod" finished-at="2021-01-24T11:32:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="beforeMethod" finished-at="2021-01-24T11:32:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="f2()[pri:2, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="f2" finished-at="2021-01-24T11:32:05Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f2 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="afterMethod" finished-at="2021-01-24T11:32:05Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.abc.main.NewTest@29a5f4e7]" started-at="2021-01-24T11:32:05Z" name="afterClass" finished-at="2021-01-24T11:32:05Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.abc.main.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
